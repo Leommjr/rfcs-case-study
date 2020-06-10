@@ -8,6 +8,7 @@ Request for Comments repo
   - [ ] RFC 1034 	DOMAIN NAMES - CONCEPTS AND FACILITIES
   - [ ] RFC 1035 	DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION
   - [ ] RFC 1945 	Hypertext Transfer Protocol -- HTTP/1.0
+  - [X] RFC 1738  Uniform Resource Locators (URL)
  
 ### Step foward
   - [ ] RFC 2460 	Internet Protocol, Version 6 (IPv6) Specification
@@ -18,6 +19,7 @@ Request for Comments repo
   - [ ] RFC 6455 	The WebSocket Protocol
   - [ ] RFC 6454  The Web Origin Concept
   - [ ] RFC 2616  Hypertext Transfer Protocol -- HTTP/1.1
+  - [ ] RFC 3986  URI Generic Syntax
   
 ### More advanced
   - [ ] RFC 6749 	The OAuth 2.0 Authorization Framework
